@@ -12,7 +12,7 @@ Web scraping is the automated process of extracting data from websites. It invol
 ### Project Outline
 - we're going to scrape https://github.com/topics
 - we'll get a list of topic. For each topic title, topic page URL and topic description 
-- for each topic, we'll get the top 25 repositories in the topic from the topic page 
+- for each topic, we'll get the top 20 repositories in the topic from the topic page 
 - for each repository, we'll grab the repo name, username, star and repo URL
 - for each topic we'll create a CSV file in the following format:
 
